@@ -1,10 +1,10 @@
 # GHC User Guide の翻訳のための Guide
 
-## 環境
+## ローカル環境
 
 - Ubuntu 16.04
 
-## 準備の準備
+## ローカル環境の準備の準備
 
 ### Git Hub 関連
 
@@ -15,3 +15,5 @@
     - gem で Bundler をインストールする
     - .zshrc に function git (){hub "$@"} を追加
 	- hub create nobsun/ghcguide-guide
+
+
